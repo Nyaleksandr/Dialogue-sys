@@ -1,0 +1,6 @@
+DialogueNode #title{
+	background-color: rgb(0, 128, 0);
+}
+EventNode #title{
+	background-color: rgb(0, 0, 128);
+}
